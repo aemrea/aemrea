@@ -14,7 +14,7 @@ Welcome to my GitHub page! I'm passionate about coding and building innovative s
 
 ### 📫 How to Reach Me
 
-- LinkedIn: [https://www.linkedin.com/in/aeagca/](https://www.linkedin.com/in/aeagca/)
+- LinkedIn: [https://www.linkedin.com/in/aeagca/](https://www.linkedin.com/in/aemrea/)
 - Email: [me@aemrea.com](mailto:me@aemrea.com)
 
 ---
