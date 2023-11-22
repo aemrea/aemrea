@@ -16,7 +16,7 @@ Welcome to my GitHub page! I'm passionate about coding and building innovative s
 
 - LinkedIn: [https://www.linkedin.com/in/aemrea/](https://www.linkedin.com/in/aemrea/)
 - Email: [me@aemrea.com](mailto:me@aemrea.com)
-- Website: [https://www.aemrea.com](https://www.aemrea.com))
+- Website: [https://www.aemrea.com](https://www.aemrea.com)
 
 ---
 
