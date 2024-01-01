@@ -9,7 +9,6 @@ Welcome to my GitHub page! I'm passionate about coding and building innovative s
 ### 🌱 What I'm Focused On
 
 - Exploring new technologies and frameworks in software development.
-- Developing open-source projects that can benefit the community.  
 
 
 ### 📫 How to Reach Me
